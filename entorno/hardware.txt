@@ -1,0 +1,18 @@
+======================================================================
+ UNIVERSIDAD DEL VALLE DE GUATEMALA - TRABAJO DE GRADUACION
+ FICHA TECNICA DE HARDWARE Y SISTEMA OPERATIVO (NATIVO C)
+======================================================================
+
+SISTEMA OPERATIVO:
+  Plataforma: Windows (x64 / NT)
+
+PROCESADOR:
+  Modelo/Identificador: AMD64 Family 26 Model 68 Stepping 0, AuthenticAMD
+  Arquitectura: x64 (AMD64 / Intel 64)
+  Nucleos logicos: 16
+
+MEMORIA RAM:
+  Total instalada: 31.16 GB (33460367360 bytes)
+  Disponible: 21.03 GB
+
+======================================================================

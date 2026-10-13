@@ -1,0 +1,67 @@
+{
+  "dispositivo": "Escritorio",
+  "ejecucion": "ejecucion_01",
+  "modo": "full",
+  "backend": "c",
+  "temperatura_inicial_c": -1.0,
+  "temperatura_final_c": -1.0,
+  "compuerta_termica_activa": true,
+  "umbral_termico_objetivo_c": 50.0,
+  "tiempo_total_suite_segundos": 2785.11,
+  "pruebas": [
+    {
+      "algoritmo": "RSA",
+      "nivel": 2048,
+      "archivo": "rsa_2048_Escritorio_ejecucion_01.csv",
+      "retorno": 0,
+      "tiempo_segundos": 146.48,
+      "filas_registradas": 5000,
+      "esperadas": 5000
+    },
+    {
+      "algoritmo": "RSA",
+      "nivel": 3072,
+      "archivo": "rsa_3072_Escritorio_ejecucion_01.csv",
+      "retorno": 0,
+      "tiempo_segundos": 515.71,
+      "filas_registradas": 5000,
+      "esperadas": 5000
+    },
+    {
+      "algoritmo": "RSA",
+      "nivel": 4096,
+      "archivo": "rsa_4096_Escritorio_ejecucion_01.csv",
+      "retorno": 0,
+      "tiempo_segundos": 1490.03,
+      "filas_registradas": 5000,
+      "esperadas": 5000
+    },
+    {
+      "algoritmo": "ML-KEM",
+      "nivel": 512,
+      "archivo": "mlkem_512_Escritorio_ejecucion_01.csv",
+      "retorno": 0,
+      "tiempo_segundos": 0.40,
+      "filas_registradas": 5000,
+      "esperadas": 5000
+    },
+    {
+      "algoritmo": "ML-KEM",
+      "nivel": 768,
+      "archivo": "mlkem_768_Escritorio_ejecucion_01.csv",
+      "retorno": 0,
+      "tiempo_segundos": 0.56,
+      "filas_registradas": 5000,
+      "esperadas": 5000
+    },
+    {
+      "algoritmo": "ML-KEM",
+      "nivel": 1024,
+      "archivo": "mlkem_1024_Escritorio_ejecucion_01.csv",
+      "retorno": 0,
+      "tiempo_segundos": 0.77,
+      "filas_registradas": 5000,
+      "esperadas": 5000
+    }
+  ]
+}
